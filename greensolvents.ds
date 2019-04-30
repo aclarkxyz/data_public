@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSheet>
+ <Summary>
+  <Title>Solvents</Title>
+  <Description><![CDATA[]]></Description>
+ </Summary>
+ <Header nrows="60" ncols="10">
+  <Column name="Molecule" type="molecule" id="1">Molecular structure</Column>
+  <Column name="Name" type="string" id="2">Molecule name</Column>
+  <Column name="Class" type="string" id="3"></Column>
+  <Column name="CASRN" type="string" id="4"></Column>
+  <Column name="Safety" type="integer" id="5"></Column>
+  <Column name="Health" type="integer" id="6"></Column>
+  <Column name="EnvAir" type="integer" id="7"></Column>
+  <Column name="EnvWater" type="integer" id="8"></Column>
+  <Column name="EnvWaste" type="integer" id="9"></Column>
+  <Column name="CSID" type="string" id="10"></Column>
+ </Header>
+ <Content>
+  <Row id="1">
+   <Cell id="1"><![CDATA[SketchEl!(4,3)
+C=0.5143,0.5143;0,0,i0
+H=-0.7848,-0.2357;0,0,i0
+O=1.8133,-0.2357;0,0,i1
+O=0.5143,2.0143;0,0,i0
+1-2=1,0
+1-3=1,0
+1-4=2,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Formic acid]]></Cell>
+   <Cell id="3"><![CDATA[Acid]]></Cell>
+   <Cell id="4"><![CDATA[64-18-6]]></Cell>
+   <Cell id="5">2</Cell>
+   <Cell id="6">6</Cell>
+   <Cell id="7">5</Cell>
+   <Cell id="8">4</Cell>
+   <Cell id="9">7</Cell>
+   <Cell id="10"><![CDATA[278]]></Cell>
+  </Row>
+  <Row id="2">
+   <Cell id="1"><![CDATA[SketchEl!(4,3)
+C=0.5143,0.5143;0,0,i0
+C=-0.7848,-0.2357;0,0,i3
+O=1.8133,-0.2357;0,0,i1
+O=0.5143,2.0143;0,0,i0
+1-2=1,0
+1-3=1,0
+1-4=2,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Acetic acid]]></Cell>
+   <Cell id="3"><![CDATA[Acid]]></Cell>
+   <Cell id="4"><![CDATA[64-19-7]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">6</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">3</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[171]]></Cell>
+  </Row>
+  <Row id="3">
+   <Cell id="1"><![CDATA[SketchEl!(5,4)
+C=0.5143,0.5143;0,0,i0
+C=-0.7848,-0.2357;0,0,i2
+O=1.8133,-0.2357;0,0,i1
+O=0.5143,2.0143;0,0,i0
+C=-2.0838,0.5143;0,0,i3
+1-2=1,0
+1-3=1,0
+1-4=2,0
+2-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Propionic acid]]></Cell>
+   <Cell id="3"><![CDATA[Acid]]></Cell>
+   <Cell id="4"><![CDATA[79-09-4]]></Cell>
+   <Cell id="5">2</Cell>
+   <Cell id="6">5</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">4</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[1005]]></Cell>
+  </Row>
+  <Row id="4">
+   <Cell id="1"><![CDATA[SketchEl!(7,6)
+C=0.5143,0.5143;0,0,i0
+C=-0.7848,-0.2357;0,0,i3
+O=1.8133,-0.2357;0,0,i0
+O=0.5143,2.0143;0,0,i0
+C=3.1123,0.5143;0,0,i0
+O=3.1124,2.0143;0,0,i0
+C=4.4114,-0.2357;0,0,i3
+1-2=1,0
+1-3=1,0
+1-4=2,0
+3-5=1,0
+5-6=2,0
+5-7=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Acetic anhydride]]></Cell>
+   <Cell id="3"><![CDATA[Acid]]></Cell>
+   <Cell id="4"><![CDATA[108-24-7]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">6</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">2</Cell>
+   <Cell id="9">7</Cell>
+   <Cell id="10"><![CDATA[7630]]></Cell>
+  </Row>
+  <Row id="5">
+   <Cell id="1"><![CDATA[SketchEl!(5,4)
+S=0.5143,0.5143;0,0,i0
+O=0.5143,2.0143;0,0,i0
+O=0.5143,-0.9857;0,0,i0
+O=2.0143,0.5143;0,0,i1
+C=-0.9857,0.5143;0,0,i3
+1-2=2,0
+1-3=2,0
+1-4=1,0
+1-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Methane sulphonic acid]]></Cell>
+   <Cell id="3"><![CDATA[Acid]]></Cell>
+   <Cell id="4"><![CDATA[75-75-2]]></Cell>
+   <Cell id="5"/>
+   <Cell id="6"/>
+   <Cell id="7">6</Cell>
+   <Cell id="8">6</Cell>
+   <Cell id="9">10</Cell>
+   <Cell id="10"><![CDATA[6155]]></Cell>
+  </Row>
+  <Row id="6">
+   <Cell id="1"><![CDATA[SketchEl!(2,1)
+C=0.0709,0.8536;0,0,i3
+O=1.5710,0.8536;0,0,i1
+1-2=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Methanol]]></Cell>
+   <Cell id="3"><![CDATA[Alcohol]]></Cell>
+   <Cell id="4"><![CDATA[67-56-1]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">5</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">3</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[864]]></Cell>
+  </Row>
+  <Row id="7">
+   <Cell id="1"><![CDATA[SketchEl!(3,2)
+O=0.1714,1.2286;0,0,i1
+C=-1.1276,0.4786;0,0,i2
+C=-2.4266,1.2286;0,0,i3
+1-2=1,0
+2-3=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Ethanol]]></Cell>
+   <Cell id="3"><![CDATA[Alcohol]]></Cell>
+   <Cell id="4"><![CDATA[64-17-5]]></Cell>
+   <Cell id="5">4</Cell>
+   <Cell id="6">3</Cell>
+   <Cell id="7">5</Cell>
+   <Cell id="8">1</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[682]]></Cell>
+  </Row>
+  <Row id="8">
+   <Cell id="1"><![CDATA[SketchEl!(4,3)
+O=0.1714,1.2286;0,0,i1
+C=-1.1276,0.4786;0,0,i2
+C=-2.4266,1.2286;0,0,i2
+C=-3.7257,0.4786;0,0,i3
+1-2=1,0
+2-3=1,0
+3-4=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[1-Propanol]]></Cell>
+   <Cell id="3"><![CDATA[Alcohol]]></Cell>
+   <Cell id="4"><![CDATA[71-23-8]]></Cell>
+   <Cell id="5">4</Cell>
+   <Cell id="6">4</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">2</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[1004]]></Cell>
+  </Row>
+  <Row id="9">
+   <Cell id="1"><![CDATA[SketchEl!(4,3)
+C=0.1714,1.2286;0,0,i1
+C=1.4705,0.4786;0,0,i3
+C=-1.1276,0.4786;0,0,i3
+O=0.1714,2.7286;0,0,i1
+1-2=1,0
+1-3=1,0
+1-4=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[2-Isopropanol]]></Cell>
+   <Cell id="3"><![CDATA[Alcohol]]></Cell>
+   <Cell id="4"><![CDATA[67-63-0]]></Cell>
+   <Cell id="5">5</Cell>
+   <Cell id="6">5</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">2</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[3644]]></Cell>
+  </Row>
+  <Row id="10">
+   <Cell id="1"><![CDATA[SketchEl!(5,4)
+C=0.1714,0.3286;0,0,i2
+O=1.4705,1.0786;0,0,i1
+C=-1.1276,1.0786;0,0,i2
+C=-2.4266,0.3286;0,0,i2
+C=-3.7257,1.0786;0,0,i3
+1-2=1,0
+1-3=1,0
+3-4=1,0
+4-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[1-Butanol]]></Cell>
+   <Cell id="3"><![CDATA[Alcohol]]></Cell>
+   <Cell id="4"><![CDATA[71-36-3]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">5</Cell>
+   <Cell id="7">5</Cell>
+   <Cell id="8">5</Cell>
+   <Cell id="9">3</Cell>
+   <Cell id="10"><![CDATA[258]]></Cell>
+  </Row>
+  <Row id="11">
+   <Cell id="1"><![CDATA[SketchEl!(5,4)
+C=0.1714,1.2286;0,0,i1
+C=1.4705,0.4786;0,0,i3
+C=-1.1276,0.4786;0,0,i2
+C=-2.4266,1.2286;0,0,i3
+O=0.1714,2.7286;0,0,i1
+1-2=1,0
+1-3=1,0
+3-4=1,0
+1-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[2-Butanol]]></Cell>
+   <Cell id="3"><![CDATA[Alcohol]]></Cell>
+   <Cell id="4"><![CDATA[78-92-2]]></Cell>
+   <Cell id="5">4</Cell>
+   <Cell id="6">5</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">3</Cell>
+   <Cell id="9">5</Cell>
+   <Cell id="10"><![CDATA[6320]]></Cell>
+  </Row>
+  <Row id="12">
+   <Cell id="1"><![CDATA[SketchEl!(5,4)
+O=0.1714,1.2286;0,0,i1
+C=-1.1276,0.4786;0,0,i2
+C=-2.4266,1.2286;0,0,i1
+C=-3.7257,0.4786;0,0,i3
+C=-2.4266,2.7286;0,0,i3
+1-2=1,0
+2-3=1,0
+3-4=1,0
+3-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Isobutanol]]></Cell>
+   <Cell id="3"><![CDATA[Alcohol]]></Cell>
+   <Cell id="4"><![CDATA[78-83-1]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">5</Cell>
+   <Cell id="7">4</Cell>
+   <Cell id="8">3</Cell>
+   <Cell id="9">3</Cell>
+   <Cell id="10"><![CDATA[6312]]></Cell>
+  </Row>
+  <Row id="13">
+   <Cell id="1"><![CDATA[SketchEl!(5,4)
+C=0.0709,0.8536;0,0,i0
+O=1.5710,0.8536;0,0,i1
+C=-1.4291,0.8536;0,0,i3
+C=0.0709,2.3536;0,0,i3
+C=0.0709,-0.6464;0,0,i3
+1-2=1,0
+1-3=1,0
+1-4=1,0
+1-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[t-Butanol]]></Cell>
+   <Cell id="3"><![CDATA[Alcohol]]></Cell>
+   <Cell id="4"><![CDATA[75-65-0]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">5</Cell>
+   <Cell id="7">7</Cell>
+   <Cell id="8">2</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[6146]]></Cell>
+  </Row>
+  <Row id="14">
+   <Cell id="1"><![CDATA[SketchEl!(6,5)
+C=0.1714,0.3286;0,0,i2
+O=1.4705,1.0786;0,0,i1
+C=-1.1276,1.0786;0,0,i2
+C=-2.4266,0.3286;0,0,i1
+C=-3.7257,1.0786;0,0,i3
+C=-2.4266,-1.1714;0,0,i3
+1-2=1,0
+1-3=1,0
+3-4=1,0
+4-5=1,0
+4-6=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Isoamyl alcohol]]></Cell>
+   <Cell id="3"><![CDATA[Alcohol]]></Cell>
+   <Cell id="4"><![CDATA[123-51-3]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">4</Cell>
+   <Cell id="7">5</Cell>
+   <Cell id="8">3</Cell>
+   <Cell id="9">4</Cell>
+   <Cell id="10"><![CDATA[29000]]></Cell>
+  </Row>
+  <Row id="15">
+   <Cell id="1"><![CDATA[SketchEl!(8,8)
+C=6.1000,0.2500;0,0,i0
+C=4.8010,-0.5000;0,0,i1
+C=7.3990,-0.5000;0,0,i1
+C=4.8010,-2.0000;0,0,i1
+C=6.1000,-2.7500;0,0,i1
+C=7.3990,-2.0000;0,0,i1
+C=6.1000,1.7500;0,0,i2
+O=7.3990,2.5000;0,0,i1
+1-2=1,0
+1-3=2,0
+2-4=2,0
+4-5=1,0
+5-6=2,0
+6-3=1,0
+1-7=1,0
+7-8=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Benzyl alcohol]]></Cell>
+   <Cell id="3"><![CDATA[Alcohol]]></Cell>
+   <Cell id="4"><![CDATA[100-51-6]]></Cell>
+   <Cell id="5">4</Cell>
+   <Cell id="6">3</Cell>
+   <Cell id="7">4</Cell>
+   <Cell id="8">2</Cell>
+   <Cell id="9">4</Cell>
+   <Cell id="10"><![CDATA[13860335]]></Cell>
+  </Row>
+  <Row id="16">
+   <Cell id="1"><![CDATA[SketchEl!(5,4)
+C=0.1714,0.3286;0,0,i2
+O=1.4705,1.0786;0,0,i1
+C=-1.1276,1.0786;0,0,i2
+O=-2.4266,0.3286;0,0,i0
+C=-3.7257,1.0786;0,0,i3
+1-2=1,0
+1-3=1,0
+3-4=1,0
+4-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[2-Methoxyethanol]]></Cell>
+   <Cell id="3"><![CDATA[Alcohol]]></Cell>
+   <Cell id="4"><![CDATA[109-86-4]]></Cell>
+   <Cell id="5">4</Cell>
+   <Cell id="6">9</Cell>
+   <Cell id="7">5</Cell>
+   <Cell id="8">3</Cell>
+   <Cell id="9">7</Cell>
+   <Cell id="10"><![CDATA[7728]]></Cell>
+  </Row>
+  <Row id="17">
+   <Cell id="1"><![CDATA[SketchEl!(4,3)
+O=0.1714,1.2286;0,0,i1
+C=-1.1276,0.4786;0,0,i2
+C=-2.4266,1.2286;0,0,i2
+O=-3.7256,0.4786;0,0,i1
+1-2=1,0
+2-3=1,0
+3-4=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Ethylene glycol]]></Cell>
+   <Cell id="3"><![CDATA[Alcohol]]></Cell>
+   <Cell id="4"><![CDATA[107-21-1]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">3</Cell>
+   <Cell id="7">5</Cell>
+   <Cell id="8">1</Cell>
+   <Cell id="9">7</Cell>
+   <Cell id="10"><![CDATA[13835235]]></Cell>
+  </Row>
+  <Row id="18">
+   <Cell id="1"><![CDATA[SketchEl!(6,6)
+C=6.1000,0.2500;0,0,i1
+C=4.8010,-0.5000;0,0,i1
+C=7.3990,-0.5000;0,0,i1
+C=4.8010,-2.0000;0,0,i1
+C=6.1000,-2.7500;0,0,i1
+C=7.3990,-2.0000;0,0,i1
+1-2=1,0
+1-3=2,0
+2-4=2,0
+4-5=1,0
+5-6=2,0
+6-3=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Benzene]]></Cell>
+   <Cell id="3"><![CDATA[Aromatic]]></Cell>
+   <Cell id="4"><![CDATA[71-43-2]]></Cell>
+   <Cell id="5">5</Cell>
+   <Cell id="6">10</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">6</Cell>
+   <Cell id="9">2</Cell>
+   <Cell id="10"><![CDATA[236]]></Cell>
+  </Row>
+  <Row id="19">
+   <Cell id="1"><![CDATA[SketchEl!(7,7)
+C=6.1000,0.2500;0,0,i0
+C=4.8010,-0.5000;0,0,i1
+C=7.3990,-0.5000;0,0,i1
+C=4.8010,-2.0000;0,0,i1
+C=6.1000,-2.7500;0,0,i1
+C=7.3990,-2.0000;0,0,i1
+C=6.1000,1.7500;0,0,i3
+1-2=1,0
+1-3=2,0
+2-4=2,0
+4-5=1,0
+5-6=2,0
+6-3=1,0
+1-7=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Toluene]]></Cell>
+   <Cell id="3"><![CDATA[Aromatic]]></Cell>
+   <Cell id="4"><![CDATA[108-88-3]]></Cell>
+   <Cell id="5">5</Cell>
+   <Cell id="6">7</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">6</Cell>
+   <Cell id="9">2</Cell>
+   <Cell id="10"><![CDATA[1108]]></Cell>
+  </Row>
+  <Row id="20">
+   <Cell id="1"><![CDATA[SketchEl!(8,8)
+C=6.1000,0.2500;0,0,i0
+C=4.8010,-0.5000;0,0,i1
+C=7.3990,-0.5000;0,0,i1
+C=4.8010,-2.0000;0,0,i1
+C=6.1000,-2.7500;0,0,i0
+C=7.3990,-2.0000;0,0,i1
+C=6.1000,-4.2500;0,0,i3
+C=6.1000,1.7500;0,0,i3
+1-2=1,0
+1-3=2,0
+2-4=2,0
+4-5=1,0
+5-6=2,0
+6-3=1,0
+5-7=1,0
+1-8=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Xylenes]]></Cell>
+   <Cell id="3"><![CDATA[Aromatic]]></Cell>
+   <Cell id="4"><![CDATA[1330-20-7]]></Cell>
+   <Cell id="5">4</Cell>
+   <Cell id="6">4</Cell>
+   <Cell id="7">4</Cell>
+   <Cell id="8">7</Cell>
+   <Cell id="9">3</Cell>
+   <Cell id="10"><![CDATA[7521]]></Cell>
+  </Row>
+  <Row id="21">
+   <Cell id="1"><![CDATA[SketchEl!(6,6)
+N=6.1000,0.2500;0,0,i0
+C=4.8010,-0.5000;0,0,i1
+C=7.3990,-0.5000;0,0,i1
+C=4.8010,-2.0000;0,0,i1
+C=6.1000,-2.7500;0,0,i1
+C=7.3990,-2.0000;0,0,i1
+1-2=1,0
+1-3=2,0
+2-4=2,0
+4-5=1,0
+5-6=2,0
+6-3=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Pyridine]]></Cell>
+   <Cell id="3"><![CDATA[Base]]></Cell>
+   <Cell id="4"><![CDATA[110-86-1]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">6</Cell>
+   <Cell id="7">7</Cell>
+   <Cell id="8">7</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[1020]]></Cell>
+  </Row>
+  <Row id="22">
+   <Cell id="1"><![CDATA[SketchEl!(7,6)
+N=1.5000,0.0000;0,0,i0
+C=1.5000,1.5000;0,0,i2
+C=0.2010,-0.7500;0,0,i2
+C=2.7990,-0.7500;0,0,i2
+C=0.2010,2.2500;0,0,i3
+C=4.0980,-0.0000;0,0,i3
+C=-1.0980,-0.0000;0,0,i3
+1-2=1,0
+1-3=1,0
+1-4=1,0
+2-5=1,0
+4-6=1,0
+3-7=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Triethylamine]]></Cell>
+   <Cell id="3"><![CDATA[Base]]></Cell>
+   <Cell id="4"><![CDATA[121-44-8]]></Cell>
+   <Cell id="5">4</Cell>
+   <Cell id="6">7</Cell>
+   <Cell id="7">5</Cell>
+   <Cell id="8">7</Cell>
+   <Cell id="9">4</Cell>
+   <Cell id="10"><![CDATA[8158]]></Cell>
+  </Row>
+  <Row id="23">
+   <Cell id="1"><![CDATA[SketchEl!(3,2)
+C=1.5000,0.0000;0,0,i0
+N=3.0000,0.0000;0,0,i0
+C=0.0000,-0.0000;0,0,i3
+1-2=3,0
+1-3=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Acetonitrile]]></Cell>
+   <Cell id="3"><![CDATA[Dipolar aprotic]]></Cell>
+   <Cell id="4"><![CDATA[75-05-8]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">5</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">4</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[6102]]></Cell>
+  </Row>
+  <Row id="24">
+   <Cell id="1"><![CDATA[SketchEl!(6,5)
+C=1.5000,0.0000;0,0,i0
+O=1.5000,1.5000;0,0,i0
+H=0.2010,-0.7500;0,0,i0
+N=2.7990,-0.7500;0,0,i0
+C=2.7990,-2.2500;0,0,i3
+C=4.0981,0.0000;0,0,i3
+1-2=2,0
+1-3=1,0
+1-4=1,0
+4-5=1,0
+4-6=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Dimethyl formamide]]></Cell>
+   <Cell id="3"><![CDATA[Dipolar aprotic]]></Cell>
+   <Cell id="4"><![CDATA[68-12-2]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">7</Cell>
+   <Cell id="7">3</Cell>
+   <Cell id="8">2</Cell>
+   <Cell id="9">7</Cell>
+   <Cell id="10"><![CDATA[5993]]></Cell>
+  </Row>
+  <Row id="25">
+   <Cell id="1"><![CDATA[SketchEl!(6,5)
+C=1.5000,0.0000;0,0,i0
+O=1.5000,1.5000;0,0,i0
+C=0.2010,-0.7500;0,0,i3
+N=2.7990,-0.7500;0,0,i0
+C=2.7990,-2.2500;0,0,i3
+C=4.0981,0.0000;0,0,i3
+1-2=2,0
+1-3=1,0
+1-4=1,0
+4-5=1,0
+4-6=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Dimethyl acetamide]]></Cell>
+   <Cell id="3"><![CDATA[Dipolar aprotic]]></Cell>
+   <Cell id="4"><![CDATA[127-19-5]]></Cell>
+   <Cell id="5">2</Cell>
+   <Cell id="6">7</Cell>
+   <Cell id="7">3</Cell>
+   <Cell id="8">7</Cell>
+   <Cell id="9">7</Cell>
+   <Cell id="10"><![CDATA[61707]]></Cell>
+  </Row>
+  <Row id="26">
+   <Cell id="1"><![CDATA[SketchEl!(4,3)
+S=1.5000,0.0000;0,0,i0
+C=0.2010,-0.7500;0,0,i3
+C=2.7990,-0.7500;0,0,i3
+O=1.5000,1.5000;0,0,i0
+1-2=1,0
+1-3=1,0
+1-4=2,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Dimethyl sulfoxide]]></Cell>
+   <Cell id="3"><![CDATA[Dipolar aprotic]]></Cell>
+   <Cell id="4"><![CDATA[67-68-5]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">4</Cell>
+   <Cell id="7">4</Cell>
+   <Cell id="8">4</Cell>
+   <Cell id="9">8</Cell>
+   <Cell id="10"><![CDATA[659]]></Cell>
+  </Row>
+  <Row id="27">
+   <Cell id="1"><![CDATA[SketchEl!(7,7)
+N=0.7500,2.3100;0,0,i0
+C=-0.4600,1.4300;0,0,i2
+C=0.0000,0.0000;0,0,i2
+C=1.9600,1.4300;0,0,i0
+C=1.5000,0.0000;0,0,i2
+C=0.7500,3.8100;0,0,i3
+O=3.3860,1.8953;0,0,i0
+3-2=1,0
+2-1=1,0
+1-4=1,0
+4-5=1,0
+5-3=1,0
+1-6=1,0
+4-7=2,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[n-Methyl-2-pyrrolidone]]></Cell>
+   <Cell id="3"><![CDATA[Dipolar aprotic]]></Cell>
+   <Cell id="4"><![CDATA[872-50-4]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">6</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">2</Cell>
+   <Cell id="9">7</Cell>
+   <Cell id="10"><![CDATA[12814]]></Cell>
+  </Row>
+  <Row id="28">
+   <Cell id="1"><![CDATA[SketchEl!(7,7)
+S=0.7500,2.3100;0,0,i0
+C=-0.4600,1.4300;0,0,i2
+C=0.0000,0.0000;0,0,i2
+C=1.9600,1.4300;0,0,i2
+C=1.5000,0.0000;0,0,i2
+O=1.5000,3.6090;0,0,i0
+O=-0.0673,3.5678;0,0,i0
+3-2=1,0
+2-1=1,0
+1-4=1,0
+4-5=1,0
+5-3=1,0
+1-6=2,0
+1-7=2,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Sulfolane]]></Cell>
+   <Cell id="3"><![CDATA[Dipolar aprotic]]></Cell>
+   <Cell id="4"><![CDATA[126-33-0]]></Cell>
+   <Cell id="5">2</Cell>
+   <Cell id="6">3</Cell>
+   <Cell id="7"/>
+   <Cell id="8">5</Cell>
+   <Cell id="9">8</Cell>
+   <Cell id="10"><![CDATA[29080]]></Cell>
+  </Row>
+  <Row id="29">
+   <Cell id="1"><![CDATA[SketchEl!(5,4)
+C=0.5429,-0.3429;0,0,i0
+O=0.5429,1.1571;0,0,i0
+H=-0.7562,-1.0929;0,0,i0
+O=1.8419,-1.0929;0,0,i0
+C=3.1409,-0.3429;0,0,i3
+1-2=2,0
+1-3=1,0
+1-4=1,0
+4-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Methyl formate]]></Cell>
+   <Cell id="3"><![CDATA[Ester]]></Cell>
+   <Cell id="4"><![CDATA[107-31-3]]></Cell>
+   <Cell id="5">5</Cell>
+   <Cell id="6">7</Cell>
+   <Cell id="7">7</Cell>
+   <Cell id="8"/>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[7577]]></Cell>
+  </Row>
+  <Row id="30">
+   <Cell id="1"><![CDATA[SketchEl!(5,4)
+C=0.5429,-0.3429;0,0,i0
+O=0.5429,1.1571;0,0,i0
+C=-0.7562,-1.0929;0,0,i3
+O=1.8419,-1.0929;0,0,i0
+C=3.1409,-0.3429;0,0,i3
+1-2=2,0
+1-3=1,0
+1-4=1,0
+4-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Methyl acetate]]></Cell>
+   <Cell id="3"><![CDATA[Ester]]></Cell>
+   <Cell id="4"><![CDATA[79-20-9]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">5</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">3</Cell>
+   <Cell id="9">5</Cell>
+   <Cell id="10"><![CDATA[6335]]></Cell>
+  </Row>
+  <Row id="31">
+   <Cell id="1"><![CDATA[SketchEl!(6,5)
+C=0.5429,-0.3429;0,0,i0
+O=0.5429,1.1571;0,0,i0
+C=-0.7562,-1.0929;0,0,i3
+O=1.8419,-1.0929;0,0,i0
+C=3.1409,-0.3429;0,0,i2
+C=4.4399,-1.0929;0,0,i3
+1-2=2,0
+1-3=1,0
+1-4=1,0
+4-5=1,0
+5-6=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Ethyl acetate]]></Cell>
+   <Cell id="3"><![CDATA[Ester]]></Cell>
+   <Cell id="4"><![CDATA[141-78-6]]></Cell>
+   <Cell id="5">5</Cell>
+   <Cell id="6">4</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">4</Cell>
+   <Cell id="9">4</Cell>
+   <Cell id="10"><![CDATA[8525]]></Cell>
+  </Row>
+  <Row id="32">
+   <Cell id="1"><![CDATA[SketchEl!(7,6)
+C=0.5429,-0.3429;0,0,i0
+O=0.5429,1.1571;0,0,i0
+C=-0.7562,-1.0929;0,0,i3
+O=1.8419,-1.0929;0,0,i0
+C=3.1409,-0.3429;0,0,i1
+C=4.4399,-1.0929;0,0,i3
+C=3.1409,1.1571;0,0,i3
+1-2=2,0
+1-3=1,0
+1-4=1,0
+4-5=1,0
+5-6=1,0
+5-7=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Isopropyl acetate]]></Cell>
+   <Cell id="3"><![CDATA[Ester]]></Cell>
+   <Cell id="4"><![CDATA[108-21-4]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">4</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">3</Cell>
+   <Cell id="9">3</Cell>
+   <Cell id="10"><![CDATA[7637]]></Cell>
+  </Row>
+  <Row id="33">
+   <Cell id="1"><![CDATA[SketchEl!(8,7)
+C=0.5429,-0.3429;0,0,i0
+O=0.5429,1.1571;0,0,i0
+C=-0.7562,-1.0929;0,0,i3
+O=1.8419,-1.0929;0,0,i0
+C=3.1409,-0.3429;0,0,i2
+C=4.4399,-1.0929;0,0,i2
+C=5.7389,-0.3429;0,0,i2
+C=7.0380,-1.0929;0,0,i3
+1-2=2,0
+1-3=1,0
+1-4=1,0
+4-5=1,0
+5-6=1,0
+6-7=1,0
+7-8=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[n-Butyl acetate]]></Cell>
+   <Cell id="3"><![CDATA[Ester]]></Cell>
+   <Cell id="4"><![CDATA[123-84-4]]></Cell>
+   <Cell id="5">4</Cell>
+   <Cell id="6">4</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">3</Cell>
+   <Cell id="9">4</Cell>
+   <Cell id="10"><![CDATA[29012]]></Cell>
+  </Row>
+  <Row id="34">
+   <Cell id="1"><![CDATA[SketchEl!(8,7)
+C=0.5429,-0.3429;0,0,i0
+O=0.5429,1.1571;0,0,i0
+C=-0.7562,-1.0929;0,0,i3
+O=1.8419,-1.0929;0,0,i0
+C=3.1409,-0.3429;0,0,i2
+C=4.4399,-1.0929;0,0,i1
+C=4.4399,-2.5929;0,0,i3
+C=5.7389,-0.3429;0,0,i3
+1-2=2,0
+1-3=1,0
+1-4=1,0
+4-5=1,0
+5-6=1,0
+6-7=1,0
+6-8=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Isobutyl acetate]]></Cell>
+   <Cell id="3"><![CDATA[Ester]]></Cell>
+   <Cell id="4"><![CDATA[110-19-0]]></Cell>
+   <Cell id="5">5</Cell>
+   <Cell id="6">3</Cell>
+   <Cell id="7">5</Cell>
+   <Cell id="8">2</Cell>
+   <Cell id="9">2</Cell>
+   <Cell id="10"><![CDATA[7747]]></Cell>
+  </Row>
+  <Row id="35">
+   <Cell id="1"><![CDATA[SketchEl!(6,5)
+C=0.5429,-0.3429;0,0,i0
+O=0.5429,1.1571;0,0,i0
+O=-0.7562,-1.0929;0,0,i0
+O=1.8419,-1.0929;0,0,i0
+C=-2.0552,-0.3429;0,0,i3
+C=3.1409,-0.3429;0,0,i3
+1-2=2,0
+1-3=1,0
+1-4=1,0
+3-5=1,0
+4-6=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Dimethyl carbonate]]></Cell>
+   <Cell id="3"><![CDATA[Ester]]></Cell>
+   <Cell id="4"><![CDATA[616-38-6]]></Cell>
+   <Cell id="5"/>
+   <Cell id="6">3</Cell>
+   <Cell id="7"/>
+   <Cell id="8"/>
+   <Cell id="9">5</Cell>
+   <Cell id="10"><![CDATA[11526]]></Cell>
+  </Row>
+  <Row id="36">
+   <Cell id="1"><![CDATA[SketchEl!(9,8)
+C=0.0571,0.3714;0,0,i0
+C=-1.2419,-0.3786;0,0,i3
+O=1.3562,-0.3786;0,0,i0
+O=0.0571,1.8714;0,0,i0
+C=2.6552,0.3714;0,0,i2
+C=3.9543,-0.3785;0,0,i2
+C=5.2533,0.3715;0,0,i2
+C=6.5524,-0.3785;0,0,i2
+C=7.8514,0.3715;0,0,i3
+1-2=1,0
+1-3=1,0
+1-4=2,0
+3-5=1,0
+5-6=1,0
+6-7=1,0
+7-8=1,0
+8-9=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Amyl acetate]]></Cell>
+   <Cell id="3"><![CDATA[Ester]]></Cell>
+   <Cell id="4"><![CDATA[628-63-7]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">3</Cell>
+   <Cell id="7">5</Cell>
+   <Cell id="8">5</Cell>
+   <Cell id="9">4</Cell>
+   <Cell id="10"><![CDATA[11843]]></Cell>
+  </Row>
+  <Row id="37">
+   <Cell id="1"><![CDATA[SketchEl!(5,4)
+O=6.1000,1.7500;0,0,i0
+C=7.3990,2.5000;0,0,i2
+C=4.8010,2.5000;0,0,i2
+C=3.5019,1.7500;0,0,i3
+C=8.6980,1.7500;0,0,i3
+1-2=1,0
+1-3=1,0
+3-4=1,0
+2-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Ethyl ether]]></Cell>
+   <Cell id="3"><![CDATA[Ether]]></Cell>
+   <Cell id="4"><![CDATA[60-29-7]]></Cell>
+   <Cell id="5">9</Cell>
+   <Cell id="6">5</Cell>
+   <Cell id="7">7</Cell>
+   <Cell id="8">4</Cell>
+   <Cell id="9">4</Cell>
+   <Cell id="10"><![CDATA[3168]]></Cell>
+  </Row>
+  <Row id="38">
+   <Cell id="1"><![CDATA[SketchEl!(6,5)
+O=6.1000,1.7500;0,0,i0
+C=4.8010,1.0000;0,0,i0
+C=7.3990,1.0000;0,0,i3
+C=3.5019,0.2500;0,0,i3
+C=4.0510,2.2990;0,0,i3
+C=5.5510,-0.2990;0,0,i3
+1-2=1,0
+1-3=1,0
+2-4=1,0
+2-5=1,0
+2-6=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Methyl t-butyl ether]]></Cell>
+   <Cell id="3"><![CDATA[Ether]]></Cell>
+   <Cell id="4"><![CDATA[1634-04-4]]></Cell>
+   <Cell id="5">6</Cell>
+   <Cell id="6">5</Cell>
+   <Cell id="7">8</Cell>
+   <Cell id="8">5</Cell>
+   <Cell id="9">2</Cell>
+   <Cell id="10"><![CDATA[14672]]></Cell>
+  </Row>
+  <Row id="39">
+   <Cell id="1"><![CDATA[SketchEl!(6,5)
+C=-0.0857,0.1714;0,0,i2
+C=1.2133,-0.5786;0,0,i2
+O=2.5124,0.1714;0,0,i0
+O=-1.3848,-0.5786;0,0,i0
+C=3.8114,-0.5786;0,0,i3
+C=-2.6838,0.1714;0,0,i3
+1-2=1,0
+2-3=1,0
+1-4=1,0
+3-5=1,0
+4-6=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[1,2-Dimethoxyethane]]></Cell>
+   <Cell id="3"><![CDATA[Ether]]></Cell>
+   <Cell id="4"><![CDATA[110-71-4]]></Cell>
+   <Cell id="5"/>
+   <Cell id="6">9</Cell>
+   <Cell id="7"/>
+   <Cell id="8">3</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[13836589]]></Cell>
+  </Row>
+  <Row id="40">
+   <Cell id="1"><![CDATA[SketchEl!(9,8)
+C=-0.0857,0.1714;0,0,i2
+C=1.2133,-0.5786;0,0,i2
+O=2.5124,0.1714;0,0,i0
+O=-1.3848,-0.5786;0,0,i0
+C=3.8114,-0.5786;0,0,i3
+C=-2.6838,0.1714;0,0,i2
+C=-3.9828,-0.5786;0,0,i2
+O=-5.2818,0.1714;0,0,i0
+C=-6.5809,-0.5786;0,0,i3
+1-2=1,0
+2-3=1,0
+1-4=1,0
+3-5=1,0
+4-6=1,0
+6-7=1,0
+7-8=1,0
+8-9=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Diglyme]]></Cell>
+   <Cell id="3"><![CDATA[Ether]]></Cell>
+   <Cell id="4"><![CDATA[111-96-6]]></Cell>
+   <Cell id="5"/>
+   <Cell id="6">8</Cell>
+   <Cell id="7"/>
+   <Cell id="8">3</Cell>
+   <Cell id="9">7</Cell>
+   <Cell id="10"><![CDATA[13839575]]></Cell>
+  </Row>
+  <Row id="41">
+   <Cell id="1"><![CDATA[SketchEl!(5,5)
+O=0.7500,2.3100;0,0,i0
+C=-0.4600,1.4300;0,0,i2
+C=0.0000,0.0000;0,0,i2
+C=1.9600,1.4300;0,0,i2
+C=1.5000,0.0000;0,0,i2
+3-2=1,0
+2-1=1,0
+1-4=1,0
+4-5=1,0
+5-3=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Tetrahydrofuran]]></Cell>
+   <Cell id="3"><![CDATA[Ether]]></Cell>
+   <Cell id="4"><![CDATA[109-99-9]]></Cell>
+   <Cell id="5">5</Cell>
+   <Cell id="6">6</Cell>
+   <Cell id="7">5</Cell>
+   <Cell id="8">4</Cell>
+   <Cell id="9">5</Cell>
+   <Cell id="10"><![CDATA[7737]]></Cell>
+  </Row>
+  <Row id="42">
+   <Cell id="1"><![CDATA[SketchEl!(6,6)
+O=0.7500,2.3100;0,0,i0
+C=-0.4600,1.4300;0,0,i2
+C=0.0000,0.0000;0,0,i2
+C=1.9600,1.4300;0,0,i1
+C=1.5000,0.0000;0,0,i2
+C=3.3860,1.8953;0,0,i3
+3-2=1,0
+2-1=1,0
+1-4=1,0
+4-5=1,0
+5-3=1,0
+4-6=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[2-Methyl tetrahydrofuran]]></Cell>
+   <Cell id="3"><![CDATA[Ether]]></Cell>
+   <Cell id="4"><![CDATA[96-47-9]]></Cell>
+   <Cell id="5">5</Cell>
+   <Cell id="6">6</Cell>
+   <Cell id="7"/>
+   <Cell id="8"/>
+   <Cell id="9">4</Cell>
+   <Cell id="10"><![CDATA[7028]]></Cell>
+  </Row>
+  <Row id="43">
+   <Cell id="1"><![CDATA[SketchEl!(7,7)
+O=6.1000,1.7500;0,0,i0
+C=4.8010,1.0000;0,0,i1
+C=7.3990,1.0000;0,0,i3
+C=3.5053,1.7481;0,0,i2
+C=2.3855,0.7467;0,0,i2
+C=4.4886,-0.4632;0,0,i2
+C=2.9950,-0.6239;0,0,i2
+1-2=1,0
+1-3=1,0
+5-4=1,0
+4-2=1,0
+2-6=1,0
+6-7=1,0
+7-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Cyclopentyl methyl ether]]></Cell>
+   <Cell id="3"><![CDATA[Ether]]></Cell>
+   <Cell id="4"><![CDATA[5614-37-9]]></Cell>
+   <Cell id="5">6</Cell>
+   <Cell id="6"/>
+   <Cell id="7"/>
+   <Cell id="8">5</Cell>
+   <Cell id="9">3</Cell>
+   <Cell id="10"><![CDATA[122157]]></Cell>
+  </Row>
+  <Row id="44">
+   <Cell id="1"><![CDATA[SketchEl!(8,8)
+C=6.1000,0.2500;0,0,i0
+C=4.8010,-0.5000;0,0,i1
+C=7.3990,-0.5000;0,0,i1
+C=4.8010,-2.0000;0,0,i1
+C=6.1000,-2.7500;0,0,i1
+C=7.3990,-2.0000;0,0,i1
+O=6.1000,1.7500;0,0,i0
+C=7.3990,2.5000;0,0,i3
+1-2=1,0
+1-3=2,0
+2-4=2,0
+4-5=1,0
+5-6=2,0
+6-3=1,0
+1-7=1,0
+7-8=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Anisole]]></Cell>
+   <Cell id="3"><![CDATA[Ether]]></Cell>
+   <Cell id="4"><![CDATA[100-66-3]]></Cell>
+   <Cell id="5">5</Cell>
+   <Cell id="6">4</Cell>
+   <Cell id="7"/>
+   <Cell id="8">3</Cell>
+   <Cell id="9">4</Cell>
+   <Cell id="10"><![CDATA[7238]]></Cell>
+  </Row>
+  <Row id="45">
+   <Cell id="1"><![CDATA[SketchEl!(6,6)
+O=3.9490,-2.3000;0,0,i0
+C=2.6500,-3.0500;0,0,i2
+C=2.6500,-4.5500;0,0,i2
+O=3.9490,-5.3000;0,0,i0
+C=5.2481,-4.5500;0,0,i2
+C=5.2481,-3.0500;0,0,i2
+2-3=1,0
+2-1=1,0
+3-4=1,0
+4-5=1,0
+5-6=1,0
+6-1=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[1,4-Dioxane]]></Cell>
+   <Cell id="3"><![CDATA[Ether]]></Cell>
+   <Cell id="4"><![CDATA[123-91-1]]></Cell>
+   <Cell id="5">8</Cell>
+   <Cell id="6">7</Cell>
+   <Cell id="7">4</Cell>
+   <Cell id="8">4</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[29015]]></Cell>
+  </Row>
+  <Row id="46">
+   <Cell id="1"><![CDATA[SketchEl!(5,4)
+C=6.1000,0.2500;0,0,i0
+Cl=4.8010,-0.5000;0,0,i0
+Cl=7.3990,-0.5000;0,0,i0
+H=6.8500,1.5490;0,0,i0
+H=5.3500,1.5490;0,0,i0
+1-2=1,0
+1-3=1,0
+1-4=1,0
+1-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Dichloromethane]]></Cell>
+   <Cell id="3"><![CDATA[Halogenated]]></Cell>
+   <Cell id="4"><![CDATA[75-09-2]]></Cell>
+   <Cell id="5">2</Cell>
+   <Cell id="6">7</Cell>
+   <Cell id="7">9</Cell>
+   <Cell id="8">6</Cell>
+   <Cell id="9">7</Cell>
+   <Cell id="10"><![CDATA[6104]]></Cell>
+  </Row>
+  <Row id="47">
+   <Cell id="1"><![CDATA[SketchEl!(5,4)
+C=6.1000,0.2500;0,0,i0
+Cl=6.1000,1.7500;0,0,i0
+Cl=6.1000,-1.2500;0,0,i0
+H=7.6000,0.2500;0,0,i0
+Cl=4.6000,0.2500;0,0,i0
+1-2=1,0
+1-3=1,0
+1-4=1,0
+1-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Chloroform]]></Cell>
+   <Cell id="3"><![CDATA[Halogenated]]></Cell>
+   <Cell id="4"><![CDATA[67-66-3]]></Cell>
+   <Cell id="5">2</Cell>
+   <Cell id="6">9</Cell>
+   <Cell id="7">7</Cell>
+   <Cell id="8">7</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[5977]]></Cell>
+  </Row>
+  <Row id="48">
+   <Cell id="1"><![CDATA[SketchEl!(5,4)
+C=6.1000,0.2500;0,0,i0
+Cl=6.1000,1.7500;0,0,i0
+Cl=6.1000,-1.2500;0,0,i0
+Cl=7.6000,0.2500;0,0,i0
+Cl=4.6000,0.2500;0,0,i0
+1-2=1,0
+1-3=1,0
+1-4=1,0
+1-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Carbon tetrachloride]]></Cell>
+   <Cell id="3"><![CDATA[Halogenated]]></Cell>
+   <Cell id="4"><![CDATA[56-23-5]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">8</Cell>
+   <Cell id="7">8</Cell>
+   <Cell id="8">5</Cell>
+   <Cell id="9">7</Cell>
+   <Cell id="10"><![CDATA[5730]]></Cell>
+  </Row>
+  <Row id="49">
+   <Cell id="1"><![CDATA[SketchEl!(4,3)
+C=-0.2571,0.8286;0,0,i2
+C=1.0419,1.5786;0,0,i2
+Cl=2.3409,0.8286;0,0,i0
+Cl=-1.5562,1.5786;0,0,i0
+1-2=1,0
+2-3=1,0
+1-4=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[1,2-Dichloroethane]]></Cell>
+   <Cell id="3"><![CDATA[Halogenated]]></Cell>
+   <Cell id="4"><![CDATA[107-06-2]]></Cell>
+   <Cell id="5">4</Cell>
+   <Cell id="6">9</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">6</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[13837650]]></Cell>
+  </Row>
+  <Row id="50">
+   <Cell id="1"><![CDATA[SketchEl!(7,7)
+C=6.1000,0.2500;0,0,i0
+C=4.8010,-0.5000;0,0,i1
+C=7.3990,-0.5000;0,0,i1
+C=4.8010,-2.0000;0,0,i1
+C=6.1000,-2.7500;0,0,i1
+C=7.3990,-2.0000;0,0,i1
+Cl=6.1000,1.7500;0,0,i0
+1-2=1,0
+1-3=2,0
+2-4=2,0
+4-5=1,0
+5-6=2,0
+6-3=1,0
+1-7=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Chlorobenzene]]></Cell>
+   <Cell id="3"><![CDATA[Halogenated]]></Cell>
+   <Cell id="4"><![CDATA[108-90-7]]></Cell>
+   <Cell id="5">3</Cell>
+   <Cell id="6">5</Cell>
+   <Cell id="7">5</Cell>
+   <Cell id="8">8</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[7676]]></Cell>
+  </Row>
+  <Row id="51">
+   <Cell id="1"><![CDATA[SketchEl!(10,10)
+C=6.1000,0.2500;0,0,i0
+C=4.8010,-0.5000;0,0,i1
+C=7.3990,-0.5000;0,0,i1
+C=4.8010,-2.0000;0,0,i1
+C=6.1000,-2.7500;0,0,i1
+C=7.3990,-2.0000;0,0,i1
+C=6.1000,1.7500;0,0,i0
+F=6.1000,3.2500;0,0,i0
+F=4.6000,1.7500;0,0,i0
+F=7.6000,1.7500;0,0,i0
+1-2=1,0
+1-3=2,0
+2-4=2,0
+4-5=1,0
+5-6=2,0
+6-3=1,0
+1-7=1,0
+7-8=1,0
+7-9=1,0
+7-10=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Trifluoromethylbenzene]]></Cell>
+   <Cell id="3"><![CDATA[Halogenated]]></Cell>
+   <Cell id="4"><![CDATA[98-08-8]]></Cell>
+   <Cell id="5"/>
+   <Cell id="6">6</Cell>
+   <Cell id="7">7</Cell>
+   <Cell id="8">7</Cell>
+   <Cell id="9">6</Cell>
+   <Cell id="10"><![CDATA[7090]]></Cell>
+  </Row>
+  <Row id="52">
+   <Cell id="1"><![CDATA[SketchEl!(6,5)
+C=4.6062,-2.5071;0,0,i3
+C=5.9052,-1.7571;0,0,i2
+C=7.2043,-2.5071;0,0,i2
+C=8.5033,-1.7571;0,0,i2
+C=9.8023,-2.5071;0,0,i2
+C=11.1014,-1.7571;0,0,i3
+1-2=1,0
+2-3=1,0
+3-4=1,0
+4-5=1,0
+5-6=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[n-Hexane]]></Cell>
+   <Cell id="3"><![CDATA[Hydrocarbon]]></Cell>
+   <Cell id="4"><![CDATA[110-54-3]]></Cell>
+   <Cell id="5">6</Cell>
+   <Cell id="6">7</Cell>
+   <Cell id="7">5</Cell>
+   <Cell id="8">8</Cell>
+   <Cell id="9">1</Cell>
+   <Cell id="10"><![CDATA[7767]]></Cell>
+  </Row>
+  <Row id="53">
+   <Cell id="1"><![CDATA[SketchEl!(7,6)
+C=4.6062,-2.5071;0,0,i3
+C=5.9052,-1.7571;0,0,i2
+C=7.2043,-2.5071;0,0,i2
+C=8.5033,-1.7571;0,0,i2
+C=9.8023,-2.5071;0,0,i2
+C=11.1014,-1.7571;0,0,i2
+C=12.4004,-2.5071;0,0,i3
+1-2=1,0
+2-3=1,0
+3-4=1,0
+4-5=1,0
+5-6=1,0
+6-7=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[n-Heptane]]></Cell>
+   <Cell id="3"><![CDATA[Hydrocarbon]]></Cell>
+   <Cell id="4"><![CDATA[142-82-5]]></Cell>
+   <Cell id="5">6</Cell>
+   <Cell id="6">4</Cell>
+   <Cell id="7">4</Cell>
+   <Cell id="8">7</Cell>
+   <Cell id="9">2</Cell>
+   <Cell id="10"><![CDATA[8560]]></Cell>
+  </Row>
+  <Row id="54">
+   <Cell id="1"><![CDATA[SketchEl!(8,7)
+C=4.6062,-2.5071;0,0,i3
+C=5.9052,-1.7571;0,0,i0
+C=7.2043,-2.5071;0,0,i2
+C=8.5033,-1.7571;0,0,i1
+C=9.8023,-2.5071;0,0,i3
+C=5.1552,-0.4581;0,0,i3
+C=6.6552,-0.4580;0,0,i3
+C=8.5033,-0.2571;0,0,i3
+1-2=1,0
+2-3=1,0
+3-4=1,0
+4-5=1,0
+2-6=1,0
+2-7=1,0
+4-8=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Isooctane]]></Cell>
+   <Cell id="3"><![CDATA[Hydrocarbon]]></Cell>
+   <Cell id="4"><![CDATA[540-84-1]]></Cell>
+   <Cell id="5">6</Cell>
+   <Cell id="6">4</Cell>
+   <Cell id="7">4</Cell>
+   <Cell id="8"/>
+   <Cell id="9">2</Cell>
+   <Cell id="10"><![CDATA[10445]]></Cell>
+  </Row>
+  <Row id="55">
+   <Cell id="1"><![CDATA[SketchEl!(6,6)
+C=3.9490,-2.3000;0,0,i2
+C=2.6500,-3.0500;0,0,i2
+C=2.6500,-4.5500;0,0,i2
+C=3.9490,-5.3000;0,0,i2
+C=5.2481,-4.5500;0,0,i2
+C=5.2481,-3.0500;0,0,i2
+2-3=1,0
+2-1=1,0
+3-4=1,0
+4-5=1,0
+5-6=1,0
+6-1=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Cyclohexane]]></Cell>
+   <Cell id="3"><![CDATA[Hydrocarbon]]></Cell>
+   <Cell id="4"><![CDATA[110-82-7]]></Cell>
+   <Cell id="5">6</Cell>
+   <Cell id="6">5</Cell>
+   <Cell id="7">4</Cell>
+   <Cell id="8">7</Cell>
+   <Cell id="9">2</Cell>
+   <Cell id="10"><![CDATA[7787]]></Cell>
+  </Row>
+  <Row id="56">
+   <Cell id="1"><![CDATA[SketchEl!(7,7)
+C=3.9490,-2.3000;0,0,i1
+C=2.6500,-3.0500;0,0,i2
+C=2.6500,-4.5500;0,0,i2
+C=3.9490,-5.3000;0,0,i2
+C=5.2481,-4.5500;0,0,i2
+C=5.2481,-3.0500;0,0,i2
+C=3.9490,-0.8000;0,0,i3
+2-3=1,0
+2-1=1,0
+3-4=1,0
+4-5=1,0
+5-6=1,0
+6-1=1,0
+1-7=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Methylcyclohexane]]></Cell>
+   <Cell id="3"><![CDATA[Hydrocarbon]]></Cell>
+   <Cell id="4"><![CDATA[108-87-2]]></Cell>
+   <Cell id="5">6</Cell>
+   <Cell id="6">4</Cell>
+   <Cell id="7">4</Cell>
+   <Cell id="8"/>
+   <Cell id="9">2</Cell>
+   <Cell id="10"><![CDATA[7674]]></Cell>
+  </Row>
+  <Row id="57">
+   <Cell id="1"><![CDATA[SketchEl!(4,3)
+C=0.0571,0.3714;0,0,i0
+C=-1.2419,-0.3786;0,0,i3
+C=1.3562,-0.3786;0,0,i3
+O=0.0571,1.8714;0,0,i0
+1-2=1,0
+1-3=1,0
+1-4=2,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Acetone]]></Cell>
+   <Cell id="3"><![CDATA[Ketone]]></Cell>
+   <Cell id="4"><![CDATA[67-64-1]]></Cell>
+   <Cell id="5">4</Cell>
+   <Cell id="6">4</Cell>
+   <Cell id="7">7</Cell>
+   <Cell id="8">1</Cell>
+   <Cell id="9">5</Cell>
+   <Cell id="10"><![CDATA[175]]></Cell>
+  </Row>
+  <Row id="58">
+   <Cell id="1"><![CDATA[SketchEl!(5,4)
+C=0.0571,0.3714;0,0,i0
+C=-1.2419,-0.3786;0,0,i2
+C=1.3562,-0.3786;0,0,i3
+O=0.0571,1.8714;0,0,i0
+C=-2.5409,0.3714;0,0,i3
+1-2=1,0
+1-3=1,0
+1-4=2,0
+2-5=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Methyl ethyl ketone]]></Cell>
+   <Cell id="3"><![CDATA[Ketone]]></Cell>
+   <Cell id="4"><![CDATA[78-93-3]]></Cell>
+   <Cell id="5">5</Cell>
+   <Cell id="6">4</Cell>
+   <Cell id="7">7</Cell>
+   <Cell id="8">2</Cell>
+   <Cell id="9">5</Cell>
+   <Cell id="10"><![CDATA[6321]]></Cell>
+  </Row>
+  <Row id="59">
+   <Cell id="1"><![CDATA[SketchEl!(7,6)
+C=0.0571,0.3714;0,0,i0
+C=-1.2419,-0.3786;0,0,i2
+C=1.3562,-0.3786;0,0,i3
+O=0.0571,1.8714;0,0,i0
+C=-2.5409,0.3714;0,0,i1
+C=-3.8399,-0.3786;0,0,i3
+C=-2.5409,1.8714;0,0,i3
+1-2=1,0
+1-3=1,0
+1-4=2,0
+2-5=1,0
+5-6=1,0
+5-7=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Methyl isobutyl ketone]]></Cell>
+   <Cell id="3"><![CDATA[Ketone]]></Cell>
+   <Cell id="4"><![CDATA[108-10-1]]></Cell>
+   <Cell id="5">5</Cell>
+   <Cell id="6">6</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">4</Cell>
+   <Cell id="9">2</Cell>
+   <Cell id="10"><![CDATA[7621]]></Cell>
+  </Row>
+  <Row id="60">
+   <Cell id="1"><![CDATA[SketchEl!(7,7)
+C=0.0571,0.3714;0,0,i0
+C=-1.2419,-0.3786;0,0,i2
+C=1.3562,-0.3786;0,0,i2
+O=0.0571,1.8714;0,0,i0
+C=-1.2419,-1.8786;0,0,i2
+C=0.0571,-2.6286;0,0,i2
+C=1.3562,-1.8786;0,0,i2
+1-2=1,0
+1-3=1,0
+1-4=2,0
+2-5=1,0
+5-6=1,0
+6-7=1,0
+7-3=1,0
+!End
+]]></Cell>
+   <Cell id="2"><![CDATA[Cyclohexanone]]></Cell>
+   <Cell id="3"><![CDATA[Ketone]]></Cell>
+   <Cell id="4"><![CDATA[108-94-1]]></Cell>
+   <Cell id="5">4</Cell>
+   <Cell id="6">4</Cell>
+   <Cell id="7">6</Cell>
+   <Cell id="8">3</Cell>
+   <Cell id="9">5</Cell>
+   <Cell id="10"><![CDATA[7679]]></Cell>
+  </Row>
+ </Content>
+</DataSheet>
